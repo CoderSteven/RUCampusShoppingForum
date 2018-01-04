@@ -1,0 +1,7 @@
+#Wed Jan 03 14:52:40 EST 2018
+base.0=/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c7b670ad73724f8e704ef939fd72b4092ae1f1c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ba00640c92f847468459c60b54e4cf4deb29e34d/classes.dex
+base.1=/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ba00640c92f847468459c60b54e4cf4deb29e34d
+file.0=/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c7b670ad73724f8e704ef939fd72b4092ae1f1c/classes.dex

@@ -1,0 +1,6 @@
+framework module Pods_rprnTests {
+  umbrella header "Pods-rprnTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

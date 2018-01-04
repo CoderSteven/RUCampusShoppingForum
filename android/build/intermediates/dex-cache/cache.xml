@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_461ebd07f256cd016403ce9b32ae9298e3baf047/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.4.1_6e5203b447e9591db6befcef6691df9ab99146cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_3fdb7722a8dc320c8c7b734028c49535290a09f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_c4df5dd567d92aebbf44c6427d329c4e0736ffff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_5b638746dcde905b8248202c10e2b18732e3ae9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-0.11.0_4b0f6e45affc6ede2c1b799abb199765d2bbd5e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_5753377dd1f95aef4535aec39ab1db32b41c91a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_f8e05e6b887ffef31a2edb134a66e4a927a36607/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_c2a555d9e3da8a1430a6b81929f96d5296e73483/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.balysv.materialmenu-material-menu-1.5.4_6ebd8b42c21a85e2aca398b0d2284451062815eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_60f82972b5f43e1a193082d9ed5aa28ffb0535c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-0.11.0_28e2ba0cc0e5cebf37ef71419734b462e54ee96d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-0.11.0_1ae0aef777e8cccdab0b0b6a50791d1168209780/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_2527491b3457661d77a8f1081fcfa8ad3ea63942/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_92bdcde5d1d4b701a26224bfc1d106950224d6f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_fe076c9d3514793939f6cafba0d49e2ce638adbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-3.4.1_3fc92ee74117ba574bfdae08c392a650e2f6d83f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.35.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="db2c76df02d034e8d49bca2a69af788a787b46b2">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_ab7853598ed64e9f8517fcccbd31be9a3354ef34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_46c3a741450d52cee5dd4f8823ddae06953d77c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_f96bf51f397e92432043681fe4bf100ab9937222/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_cf2d23ea1ca5445d1078cec98e350143f80625c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_1ee5004b71f0bd2764e95063d40353289b1778c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_e97b05cf10518faf2b82f8b197d685716c904fa7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_5061694091ecaf47cc92643016782a8f10547606/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.balysv.materialmenu-material-menu-toolbar-1.5.4_4e2271426465dbf0df6f6be46cf3da90fa92909b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_675c92cb8168e4a9badc0ca10f53f3d1167f496b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-0.11.0_d1b8c54e7137614af2cd0b83eab9f785a3556ce9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_e311fc3436ee4f6f2391e04b3e9d08a66aef12c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.soloader-soloader-0.1.0_83a8b4a677206983ac8edaf3f98795631c34f90d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_b3864e9606825d372bc2b5f939f774a2c7bd37be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_2f544e767d3c58b45b6f3e66a34ec788b2f137bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_9b5d7e4b3340862e9558b19a18bb4cb6ce24a96a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="24497dd7ccdf848dde14335011e715dcc1110275">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.yalantis-ucrop-2.2.0-native_1dbd935d9b8341b4c05b4df7c6025e06dc0ef766/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_2bea1110f83d8e35de0497291184921e4d79402e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_bc1c640fe0dc7a6b310bf686d2cc1345a2f64dfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_dd507822e5d11f99f2ad63b2e939dc89c5d2f2d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_cca5fc9010ee7f67a23df3862a59bacda2a36c2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.3_a2a6308c11b572b29480b157435a7d35d9af094c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3a32bbaf2e087634787314be14fb5dbb4719f60a">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ba00640c92f847468459c60b54e4cf4deb29e34d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0dda86340c79c8e8cff699e9d4cbd2ab9e45e34e">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2c7b670ad73724f8e704ef939fd72b4092ae1f1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_c341a191e2444c514fc3e92e5a61f1c7f8a49f9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_61b0d0910cf19642a9cce1cbbac1d361e2004d08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_3dfe15389a8ba1ba82c7ba1fbe951a92b6a3ddf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_40fdefd2b6b270756dd2c4a0a3c228d206f6c8a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_41e6822a4e72ef2d8e1ce53758042429ec3a3721/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.35.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cdc91752c90040ec7871c44963c63c751b1fa94b">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.react-react-native-0.35.0_f1c6e14afca41c71e859d0cc40d6e7b8059206a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_01a81fa1cec16ed10d148aa6b511adf09e1e13cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_73054d8e84f0234202199cfc7e7d15d8263477dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-0.11.0_8407eb123287aaf4727ddd88e06b0019ee52f2cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_5c0a8ced4d29522a3f8b3a357e8ced9d194c9e18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_58ef4ffef50db040d1c028ae3e51260603053f58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/1.3.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4234bd96344a30c7130d4bd89f3ab9116c30931b">
+        <dex dex="/Users/shengmingliang/Master/MobileAPP/campusfm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.aurelhubert-ahbottomnavigation-1.3.3_088eb86ae2fedac84d29d6ab2895b8eeec99f27d/classes.dex" />
+    </item>
+
+</items>
